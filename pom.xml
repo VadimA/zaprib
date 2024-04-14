@@ -8,7 +8,7 @@
     <name>SPTOR</name>
 
     <properties>
-        <spring.version>4.2.5.RELEASE</spring.version>
+        <spring.version>5.3.34</spring.version>
         <hibernate.version>4.3.5.Final</hibernate.version>
         <spring.security.version>3.2.9.RELEASE</spring.security.version>
         <apachetiles.version>3.0.5</apachetiles.version>
@@ -247,7 +247,7 @@
         <dependency>
             <groupId>com.stormpath.spring</groupId>
             <artifactId>stormpath-spring-webmvc</artifactId>
-            <version>1.1.2</version>
+            <version>1.1.7</version>
         </dependency>
 
         <dependency>
