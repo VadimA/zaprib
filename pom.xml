@@ -10,7 +10,7 @@
     <properties>
         <spring.version>4.2.5.RELEASE</spring.version>
         <hibernate.version>4.3.5.Final</hibernate.version>
-        <spring.security.version>3.2.9.RELEASE</spring.security.version>
+        <spring.security.version>5.8.12</spring.security.version>
         <apachetiles.version>3.0.5</apachetiles.version>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -198,7 +198,7 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-taglibs</artifactId>
-            <version>4.0.4.RELEASE</version>
+            <version>5.8.12</version>
         </dependency>
 
         <dependency>
