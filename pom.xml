@@ -8,9 +8,9 @@
     <name>SPTOR</name>
 
     <properties>
-        <spring.version>4.2.5.RELEASE</spring.version>
+        <spring.version>6.1.14</spring.version>
         <hibernate.version>4.3.5.Final</hibernate.version>
-        <spring.security.version>3.2.9.RELEASE</spring.security.version>
+        <spring.security.version>6.2.7</spring.security.version>
         <apachetiles.version>3.0.5</apachetiles.version>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -63,7 +63,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-jpa</artifactId>
-            <version>1.10.1.RELEASE</version>
+            <version>3.2.11</version>
         </dependency>
 
         <dependency>
@@ -198,13 +198,13 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-taglibs</artifactId>
-            <version>4.0.4.RELEASE</version>
+            <version>6.2.7</version>
         </dependency>
 
         <dependency>
             <groupId>net.sf.jasperreports</groupId>
             <artifactId>jasperreports</artifactId>
-            <version>6.2.1</version>
+            <version>6.19.0</version>
         </dependency>
 
         <dependency>
@@ -247,7 +247,7 @@
         <dependency>
             <groupId>com.stormpath.spring</groupId>
             <artifactId>stormpath-spring-webmvc</artifactId>
-            <version>1.1.2</version>
+            <version>1.1.7</version>
         </dependency>
 
         <dependency>
