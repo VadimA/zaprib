@@ -9,7 +9,7 @@
 
     <properties>
         <spring.version>4.2.5.RELEASE</spring.version>
-        <hibernate.version>4.3.5.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <spring.security.version>3.2.9.RELEASE</spring.security.version>
         <apachetiles.version>3.0.5</apachetiles.version>
         <maven.compiler.target>1.8</maven.compiler.target>
