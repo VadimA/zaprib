@@ -247,7 +247,7 @@
         <dependency>
             <groupId>com.stormpath.spring</groupId>
             <artifactId>stormpath-spring-webmvc</artifactId>
-            <version>1.1.2</version>
+            <version>1.1.7</version>
         </dependency>
 
         <dependency>
