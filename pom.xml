@@ -9,7 +9,7 @@
 
     <properties>
         <spring.version>4.2.5.RELEASE</spring.version>
-        <hibernate.version>4.3.5.Final</hibernate.version>
+        <hibernate.version>5.3.18.Final</hibernate.version>
         <spring.security.version>3.2.9.RELEASE</spring.security.version>
         <apachetiles.version>3.0.5</apachetiles.version>
         <maven.compiler.target>1.8</maven.compiler.target>
@@ -27,7 +27,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>5.2.4.Final</version>
+            <version>6.0.19.Final</version>
         </dependency>
 
         <dependency>
@@ -106,7 +106,7 @@
         <dependency>
             <groupId>org.springframework.security.oauth</groupId>
             <artifactId>spring-security-oauth2</artifactId>
-            <version>1.0.0.RELEASE</version>
+            <version>2.4.1.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>com.google.code.gson</groupId>
@@ -168,7 +168,7 @@
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>9.4.1212</version>
+            <version>42.2.13</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
@@ -247,7 +247,7 @@
         <dependency>
             <groupId>com.stormpath.spring</groupId>
             <artifactId>stormpath-spring-webmvc</artifactId>
-            <version>1.1.2</version>
+            <version>1.1.7</version>
         </dependency>
 
         <dependency>
@@ -299,7 +299,7 @@
                 <dependency>
                     <groupId>org.postgresql</groupId>
                     <artifactId>postgresql</artifactId>
-                    <version>9.4.1212</version>
+                    <version>42.2.13</version>
                 </dependency>
                 <dependency>
                     <groupId>org.apache.tomcat</groupId>
@@ -345,7 +345,7 @@
                 <dependency>
                     <groupId>org.postgresql</groupId>
                     <artifactId>postgresql</artifactId>
-                    <version>9.4.1212</version>
+                    <version>42.2.13</version>
                 </dependency>
                 <dependency>
                     <groupId>org.apache.tomcat</groupId>
